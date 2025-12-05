@@ -1,0 +1,23 @@
+{
+  "name": "newagentic-skills",
+  "description": "Skills and commands for AI-assisted development workflows",
+  "owner": {
+    "name": "Seth Walker",
+    "email": "seth@newagentic.com",
+    "url": "https://www.newagentic.com"
+  },
+  "plugins": [
+    {
+      "name": "newagentic-skills",
+      "description": "Journaling, parallel agent orchestration, and other workflow patterns developed through real-world usage",
+      "version": "0.1.0",
+      "source": "./",
+      "author": {
+        "name": "Seth Walker / new Agentic",
+        "email": "seth@newagentic.com",
+        "url": "https://www.newagentic.com"
+      },
+      "license": "MIT"
+    }
+  ]
+}
