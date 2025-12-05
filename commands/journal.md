@@ -60,10 +60,8 @@ Write an entry on that topic.
 
 ### Process
 
-1. Draft the entry
-2. **Always show to Seth for review before saving**
-3. Incorporate any feedback
-4. Save to configured location (see CLAUDE.local.md for $JOURNAL_PATH)
+1. Write the entry (normal file write - Seth can approve/reject/modify like any edit)
+2. Save to configured location (see CLAUDE.local.md for $JOURNAL_PATH, or default to docs/journal/)
 
 ### First-Time Setup
 
